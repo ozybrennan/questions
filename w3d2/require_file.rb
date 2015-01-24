@@ -1,0 +1,5 @@
+require 'question_like.rb'
+require 'question_follower.rb'
+require 'questions.rb'
+require 'reply.rb'
+require 'user.rb'
